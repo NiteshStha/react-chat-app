@@ -8,7 +8,8 @@ body,
 /* Messages.js */
 .messages {
   max-width: inherit !important;
-  height: 440px;
+  height: 62vh !important;
+  /* height: 440px; */
   overflow-y: scroll;
 }
 
